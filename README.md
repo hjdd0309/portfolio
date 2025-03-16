@@ -26,6 +26,7 @@ https://github.com/hjdd0309/KHU-IN
 - **설명**: 목적과 시간이 일치하는 새로운 사람을 만나기 위해 특정 지역(경희대)만의 구인 서비스를 만들고자 flutter를 이용해 앱을 개발함
 - 
 ### 프로젝트명: [GCP 사이트 개발]
+https://github.com/hjdd0309/IllegalSteroidDrugs-Project-Website
 - **기간**: 2024.08 - 2024.09
 - **역할**: 웹 개발
 - **사용 기술**: html
