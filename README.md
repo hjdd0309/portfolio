@@ -11,6 +11,7 @@
 
 ## 프로젝트 경험
 ### 프로젝트명: [합리적인 소비를 위한 시장 농수축산물 시장가격에 대한 분석]
+https://github.com/hjdd0309/Agricultural-Data-Analysis
 - **기간**: 2024.04 - 2024.06
 - **역할**: 데이터 분석
 - **사용 기술**: Python, pandas, numpy, flutter
