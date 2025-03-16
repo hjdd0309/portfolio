@@ -2,7 +2,6 @@
 
 ## 개인 정보
 - 이름: 김현정
-- 연락처: 010-6308-0682
 - 이메일: hjdd0309@khu.ac.kr & linaishan0781@gmail.com
 ## 자기 소개
 안녕하세요, 소프트웨어 개발자 김현정입니다. 웹 개발 및 데이터 분석 분야에서 공부중인 대학생입니다.
@@ -33,7 +32,7 @@ https://github.com/hjdd0309/IllegalSteroidDrugs-Project-Website
 - **설명**: gcp 프로젝트에서 불법 약물에 관한 정보를 알리고자 사이트를 개설함
 
 ### 프로젝트명: [카카오톡 분석기]
-
+https://github.com/hjdd0309/kakotalk-analyzer
 - **기간**: 2024.03 - 2024.04
 - **역할**: 코드제작
 - **사용 기술**: python
