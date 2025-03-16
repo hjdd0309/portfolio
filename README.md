@@ -19,6 +19,7 @@ https://github.com/hjdd0309/Agricultural-Data-Analysis
 최적의 합리적인 소비를 하기위해 시장(서울지역)에서 농수산물이 얼만큼 다양하게 어떻게 다른지 분석해보았다
 
 ### 프로젝트명: [KHU-IN]
+https://github.com/hjdd0309/KHU-IN
 - **기간**: 2024.08 - 2024.09
 - **역할**: PMO(Project Management Office)
 - **사용 기술**: flutter
