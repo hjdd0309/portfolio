@@ -37,7 +37,7 @@ https://github.com/hjdd0309/IllegalSteroidDrugs-Project-Website
 - **기간**: 2024.03 - 2024.04
 - **역할**: 코드제작
 - **사용 기술**: python
-- **설명**: gcp 프로젝트에서 불법 약물에 관한 정보를 알리고자 사이트를 개설함
+- **설명**: 카카오톡 분석기를 통해 카카오톡 채팅 내용 속 특정 단어나 부류의 대화가 몇번 오갔는지를 알 수 있습니다.
 
 ## 포트폴리오 링크
 - GitHub:[https://github.com/hjdd0309](https://github.com/hjdd0309)
