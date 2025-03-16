@@ -32,5 +32,12 @@ https://github.com/hjdd0309/IllegalSteroidDrugs-Project-Website
 - **사용 기술**: html
 - **설명**: gcp 프로젝트에서 불법 약물에 관한 정보를 알리고자 사이트를 개설함
 
+### 프로젝트명: [카카오톡 분석기]
+
+- **기간**: 2024.03 - 2024.04
+- **역할**: 코드제작
+- **사용 기술**: python
+- **설명**: gcp 프로젝트에서 불법 약물에 관한 정보를 알리고자 사이트를 개설함
+
 ## 포트폴리오 링크
 - GitHub:[https://github.com/hjdd0309](https://github.com/hjdd0309)
